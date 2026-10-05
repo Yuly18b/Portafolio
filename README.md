@@ -6,8 +6,8 @@ Este repositorio contiene el código fuente del portafolio profesional desarroll
 ---
 
 ## 🚀 Despliegue en Vivo
-- **Sitio Web (GitHub Pages):** [https://yuly18b.github.io/portafolio/](https://yuly18b.github.io/portafolio/)
-- **Repositorio Oficial:** [https://github.com/Yuly18b/portafolio](https://github.com/Yuly18b/portafolio)
+- **Sitio Web (GitHub Pages):** [https://yuly18b.github.io/portafolio/](https://yuly18b.github.io/Portafolio/)
+- **Repositorio Oficial:** [https://github.com/Yuly18b/portafolio](https://github.com/Yuly18b/Portafolio)
 
 ---
 
